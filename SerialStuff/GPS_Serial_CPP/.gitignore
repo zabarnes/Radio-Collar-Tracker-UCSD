@@ -1,0 +1,4 @@
+*.o
+mavlink_serial
+send_quad_commands
+.DS_Store
