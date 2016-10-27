@@ -1,0 +1,7 @@
+curr_run: 351
+freq_em: 15000 
+pulse_ms: 20 
+lin_scale: 0
+map_d: 256
+alpha_c_thres: 250
+num_col: 2

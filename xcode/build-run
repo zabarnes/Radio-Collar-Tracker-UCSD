@@ -1,0 +1,3 @@
+clear
+gcc collarTracker.c -Wall -O2 -o collarTracker -lfftw3  -lm `pkg-config --cflags --libs gtk+-2.0 librtlsdr` -std=c99
+./collarTracker

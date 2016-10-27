@@ -1,0 +1,12 @@
+mavproxy
+*~
+*.o
+*.pyc
+*.log
+camera/
+build/
+dist/
+gtest/
+*.tlog
+*.raw
+MANIFEST
